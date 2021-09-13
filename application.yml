@@ -4,6 +4,8 @@ spring:
 
 mygreeting: "A message from config server"
 
-db:connection:"connection string..."
-   host:127.0.0.1
-   port:8080
+db:
+   connection:"connection string..."
+   
+host:127.0.0.1
+port:8080
