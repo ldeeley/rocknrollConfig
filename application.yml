@@ -6,6 +6,5 @@ mygreeting: "A message from config server"
 
 db:
    connection:"connection string..."
-   
-host:127.0.0.1
-port:8080
+   host:127.0.0.1
+   port:8080
