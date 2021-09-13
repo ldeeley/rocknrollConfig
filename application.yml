@@ -2,7 +2,7 @@ spring:
     application:
         name: rocknrollalbumart
 
-mygreeting: "A message from config server"
+mygreeting: "A message from rocknrollConfig server on github"
 
 db:
    connection:"connection string..."
