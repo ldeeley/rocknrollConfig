@@ -1,4 +1,4 @@
-my.greeting:"A message from config server"
+mygreeting:"A message from config server"
 
 db:connection:"connection string..."
    host:127.0.0.1
