@@ -1,5 +1,10 @@
-my.greeting:"A message from config server"
+spring:
+    application:
+        name: rocknrollalbumart
 
-db:connection:"connection string..."
+mygreeting: "A message from rocknrollConfig server on github"
+
+db:
+   connection:"connection string..."
    host:127.0.0.1
    port:8080
