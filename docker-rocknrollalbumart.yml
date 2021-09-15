@@ -1,6 +1,6 @@
 spring:
     application:
-        name: rocknrollalbumart
+        name: docker-rocknrollalbumart
 
 mygreeting: "A message from docker-rocknrollConfig server on github refreshing one more time"
 
