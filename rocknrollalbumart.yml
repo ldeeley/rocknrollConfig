@@ -1,6 +1,11 @@
 spring:
     application:
         name: rocknrollalbumart
+        
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
 
 mygreeting: "A message from rocknrollConfig server on github but for rocknrollalbum art microservice"
 

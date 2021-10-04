@@ -1,8 +1,8 @@
 spring:
     application:
-        name: rocknrollalbumart
+        name: docker-rocknrollalbumart
 
-mygreeting: "A message from rocknrollConfig server on github refreshing one more time"
+mygreeting: "A message from docker-rocknrollConfig server on github refreshing one more time"
 
 db:
    connection:"connection string..."
