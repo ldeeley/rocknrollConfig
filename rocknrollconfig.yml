@@ -1,8 +1,8 @@
 spring:
     application:
-        name: rocknrollalbumart
+        name: rocknrollConfig
 
-mygreeting: "A message from rocknrollConfig server on github but for rocknrollalbum art microservice"
+mygreeting: "A configuration message from rocknrollConfig server on github but for rocknrollConfig microservice"
 
 db:
    connection:"connection string..."
