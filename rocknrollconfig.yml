@@ -1,0 +1,10 @@
+spring:
+    application:
+        name: rocknrollalbumart
+
+mygreeting: "A message from rocknrollConfig server on github but for rocknrollalbum art microservice"
+
+db:
+   connection:"connection string..."
+   host:127.0.0.1
+   port:8080
