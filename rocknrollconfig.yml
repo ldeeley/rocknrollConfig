@@ -1,6 +1,11 @@
 spring:
     application:
         name: rocknrollConfig
+        
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
 
 mygreeting: "A configuration message from rocknrollConfig server on github but for rocknrollConfig microservice"
 
